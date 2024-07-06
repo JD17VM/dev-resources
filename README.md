@@ -32,3 +32,15 @@
 ## **Cuentas**
 
 - [Aaleex.dev](https://www.instagram.com/aaleex.dev/?hl=es) 
+
+
+## Inteligencia Artificial
+
+- [Gamma App](https://gamma.app)
+    - Crear presentaciones, documentos y sitios web con IA
+- [Viggle AI](https://viggle.ai)
+    - Hacer mover a cualquier imagen de personaje
+- [Merlin](https://www.getmerlin.in/es)
+    - Merlin es una extensión de Chrome de ChatGPT que funciona como tu asistente de ChatGPT impulsado por IA, ahorrando tiempo y dinero. Proporciona respuestas de ChatGPT en la búsqueda de Google, resume videos de Youtube, blogs, documentos (pdf o ppt), escribe publicaciones y responde a comentarios en LinkedIn, Twitter y Gmail. 
+- [Perplexity AI](https://www.perplexity.ai)
+    - Chatbot basado en ChatGPT-3 , recomendado para citar fuentes
