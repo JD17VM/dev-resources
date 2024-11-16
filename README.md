@@ -8,6 +8,11 @@
 - [Toptal Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms): Visualización de distintos algoritmos de ordenamiento. [[R]](https://www.instagram.com/reel/C8ddOxoNEQB/?hl=es)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): Visualización para distintas estructuras de datos y algoritmos. [[R]](https://www.instagram.com/reel/C8ddOxoNEQB/?hl=es)
 - [Refactoring GURU](https://refactoring.guru/es/design-patterns): Aprender patrones de diseño
+- [The Algorithms](https://the-algorithms.com/es): Biblioteca de algoritmos de código abierto
+- [Clean Code JS](https://github.com/andersontr15/clean-code-javascript-es): Robert C. Martin Clean Code, adaptado para JavaScript
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university): Lista de temas de estudio para convertirse en ingeniero de software
+
+- [Globe](https://www.globe.engineer):La misión de Globe es representar de forma óptima la información para la comprensión humana
 
 ## **Diseño UX UI**
 
@@ -19,6 +24,7 @@
 - [Creative Tim](https://www.creative-tim.com): Kits de interfaz de usuario, plantillas y paneles creados sobre Tailwind CSS, Bootstrap, Vue.js, React, Angular, Node.js y Laravel.
 - [Landingfolio](https://www.landingfolio.com): presenta diseños de páginas de destino, plantillas, componentes.
 - [Colormind/Bootsrap](http://colormind.io/bootstrap/): Paleta de colores aplicada a una página de inicio de demostración.
+- [Colormind/Bootsrap](https://coolors.co): Paleta de colores , tambien se puede ver en diferentes diseños
 
 ## **RANDOM**
 
@@ -28,6 +34,8 @@
 - [SVGL](https://svgl.app): Logos de aplicaciones, empresas y tecnologías para usar en tus proyectos. [[R]](https://www.instagram.com/elrincondeldev/?hl=es)
 - [Faker](https://fakerjs.dev): Genera cantidades masivas de datos falsos para pruebas y desarrollo.
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x): Este repositorio es una recopilación de guías paso a paso bien escritas para recrear tecnologías desde cero. [[R]](https://www.instagram.com/p/C6vimsCN8hC/?hl=es)
+- [GPTEXCEL](https://gptexcel.uk): Genere fórmulas de hojas de cálculo con IA.
+- [Excersim](https://exercism.org): Ejercicios de programación
 
 ## **Cuentas**
 
