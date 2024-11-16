@@ -24,7 +24,7 @@
 - [Creative Tim](https://www.creative-tim.com): Kits de interfaz de usuario, plantillas y paneles creados sobre Tailwind CSS, Bootstrap, Vue.js, React, Angular, Node.js y Laravel.
 - [Landingfolio](https://www.landingfolio.com): presenta diseños de páginas de destino, plantillas, componentes.
 - [Colormind/Bootsrap](http://colormind.io/bootstrap/): Paleta de colores aplicada a una página de inicio de demostración.
-- [Colormind/Bootsrap](https://coolors.co): Paleta de colores , tambien se puede ver en diferentes diseños
+- [Coolors](https://coolors.co): Paleta de colores , tambien se puede ver en diferentes diseños
 
 ## **RANDOM**
 
