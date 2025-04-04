@@ -1,0 +1,18 @@
+Hola,estoy desarrollando un proyecto web que consume una API que otra persona creó. Mi sistema funciona correctamente y es la interfaz que consume la API.
+La otra persona que creó la API, me dió acceso al codigo de esta y la tiene montada en vercel (si no me equivoco). Se supone que ahora yo tegno que montar esa API en un servidor personal y manejarla desde ahí, ya que la otra persona borrará todo eso. Yo la verdad que solo tengo acceso al codigo más no a la base de datos ni como se sube a vercel y todo eso. 
+
+A continuacion te compartiré el código de la API (.py), 
+- analizalo completamente
+- Indicame si tienes toda la informacion que se requiere para crear la base de datos
+- Indicame los pasos que tengo que hacer para crear la base ded atos y subirla a vercel y todo lo que tenga que hacer
+
+3 preguntas:
+
+- Con toda la informacion que tienes y el coduigo de la API, ¿puedes generar todo el codigo SQL, todas las tablas y todas las conexiones de las tablas? Solo repsondeme si es suficiente la informacion. Luego te pediré que generes el SQL.
+- Entonces la base de datos MYSQL no está subida a Vercel sino que está a aprte y el codigo app.py es el que está conectandos con la base de datos alojada en otra parte?
+    - Si es así, entonces podría crear la BD en un servidor que tengo de phpmyadmin y concetarla con el vercel?
+
+3 preguntas:
+- Viste que tambien había un archivo Dockerfile? Para que es eso ¿Eso es algo que se agrega cuando lo configuro con vercel?
+- Una vez creada la base de datos en mi host de phpMyAdmin con MYSQL como lo conecto con la app.py ?
+- Luego que tengo que hacer como lo subo a Vercel? Vercel es de paga? Me estoy olvidando de algo?

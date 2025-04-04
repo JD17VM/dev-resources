@@ -25,6 +25,7 @@
 - [Landingfolio](https://www.landingfolio.com): presenta diseños de páginas de destino, plantillas, componentes.
 - [Colormind/Bootsrap](http://colormind.io/bootstrap/): Paleta de colores aplicada a una página de inicio de demostración.
 - [Coolors](https://coolors.co): Paleta de colores , tambien se puede ver en diferentes diseños
+- [Coolors](https://hihayk.github.io/scale/#4/6/50/80/-51/67/20/14/1D9A6C/29/154/108/white): Paleta de colores , saturación , tono y luminosidad.
 
 ## **RANDOM**
 
@@ -52,3 +53,7 @@
     - Merlin es una extensión de Chrome de ChatGPT que funciona como tu asistente de ChatGPT impulsado por IA, ahorrando tiempo y dinero. Proporciona respuestas de ChatGPT en la búsqueda de Google, resume videos de Youtube, blogs, documentos (pdf o ppt), escribe publicaciones y responde a comentarios en LinkedIn, Twitter y Gmail. 
 - [Perplexity AI](https://www.perplexity.ai)
     - Chatbot basado en ChatGPT-3 , recomendado para citar fuentes
+
+## **Librerias de Frontend**
+- [Swiper](https://swiperjs.com/demos)
+    - Sliders animados, muy interesantes
